@@ -1,0 +1,12 @@
+# Ne pas inclure de fichiers .save.x ou .save tout court
+*.save
+*.save.*
+
+# Ne pas inclure de fichiers windows
+*.vsdx
+
+# Retirer le script de base réalisé en perl
+users.pl
+
+# Retirer les fichiers de test
+test*
