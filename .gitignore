@@ -4,6 +4,7 @@
 
 # Ne pas inclure de fichiers windows
 *.vsdx
+~*
 
 # Retirer le script de base réalisé en perl
 users.pl
